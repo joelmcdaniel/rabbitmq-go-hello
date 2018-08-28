@@ -1,3 +1,3 @@
 # rabbitmq-go-hello
 
-Send/Receive a basic "Hello World" message in RabbitMQ/Go.
+Send/receive a basic "Hello World" message in RabbitMQ/Go.
